@@ -3,8 +3,8 @@
 BongoCat 的 tauri重制 版本
 
 ## 现存问题
-- [] 猫的右手移动有问题
-- [] 在点击猫键盘里不存在的字符时猫的手会消失，刷新后恢复
+- [ ] 猫的右手移动有问题
+- [ ] 在点击猫键盘里不存在的字符时猫的手会消失，刷新后恢复
 
 ## 项目依赖
 - [Rust环境](https://tauri.app/zh-cn/v1/guides/getting-started/prerequisites#%E5%AE%89%E8%A3%85): 请自行根据官网步骤安装rust环境
