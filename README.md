@@ -1,9 +1,14 @@
 # bongocat-for-tauri
 
-BongoCat 的 tauri重制 版本
+BongoCat 的 tauri重制 版本（糖哥做的，我只是在这里备份一下（？）
 
-## 现存问题
-- [ ] 猫的右手移动有问题
+可用版本请见[发行版](https://gitee.com/epeiusss/bongocat-for-tauri/releases)
+
+## 项目截图
+![image](docs/1.jpg)
+
+## 已知问题
+- [ ] 猫的右手移动有问题（现在暂时将手变为固定）
 - [ ] 在点击猫键盘里不存在的字符时猫的手会消失，刷新后恢复
 
 ## 项目依赖
@@ -33,7 +38,6 @@ npm run tauri build
 ```bash
 npm run tauri build --debug
 ```
-
 
 4. 生成app图标，请自行替换/src-tauri/assets文件夹下的icon图标，任何图片格式均可以
 ```bash
