@@ -1,4 +1,4 @@
-# bongocat-for-tauri
+# BongocatForTauri
 
 BongoCat 的 tauri重制 版本（糖哥做的，我只是在这里备份一下（？）
 
