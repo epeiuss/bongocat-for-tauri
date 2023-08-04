@@ -2,11 +2,11 @@
 
 BongoCat 的 tauri重制 版本（糖哥做的，我只是在这里备份一下（？）
 
-可用版本请见[发行版](https://gitee.com/epeiusss/bongocat-for-tauri/releases)
+可用版本请见[Releases](https://github.com/epeiuss/bongocat-for-tauri/releases)
 
 ## 项目截图
 ![image](docs/1.jpg)
-
+R
 ## 已知问题
 - [ ] 猫的右手移动有问题（现在暂时将手变为固定）
 - [ ] 在点击猫键盘里不存在的字符时猫的手会消失，刷新后恢复
