@@ -1,6 +1,6 @@
 [package]
-name = "bongocat-for-mac"
-version = "0.0.0"
+name = "bongocat-for-tauri"
+version = "1.0.0"
 description = "A Tauri App"
 authors = ["you"]
 license = ""
